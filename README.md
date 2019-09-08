@@ -1,0 +1,2 @@
+# WorkspaceStructure
+Структура на память
